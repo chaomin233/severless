@@ -1,0 +1,19 @@
+{
+  "appKey": "3HxtseOX4adi0htEBGQswCPkgA2szq3C",
+  "appSecret": "poZJsrL7RUWCJ1hpvCsJrtiZ7qbqtLDH",
+  "projectId": "e379232f0a3248d52bd685358df29c63",
+  "id": 248,
+  "name": "aaaa",
+  "framework": "vue",
+  "platform": "mobile",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chaomin233/severless.git",
+    "isPrivate": 0,
+    "username": "chaomin233",
+    "password": "abcd153010508"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
